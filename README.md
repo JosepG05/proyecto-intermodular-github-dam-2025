@@ -12,3 +12,5 @@ Sistema de gestión de tienda desarrollado como proyecto intermodular para el ci
 - SQL
 - Diagramas ER
 - Markdown para documentación
+
+- 
